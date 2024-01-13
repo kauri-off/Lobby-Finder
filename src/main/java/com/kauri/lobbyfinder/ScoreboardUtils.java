@@ -1,4 +1,4 @@
-package com.kauri.mixgame;
+package com.kauri.lobbyfinder;
 
 import net.minecraft.scoreboard.Score;
 import net.minecraft.scoreboard.ScoreObjective;

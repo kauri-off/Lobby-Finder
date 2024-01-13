@@ -1,4 +1,4 @@
-package com.kauri.mixgame;
+package com.kauri.lobbyfinder;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.settings.KeyBinding;
@@ -21,12 +21,12 @@ import org.lwjgl.input.Keyboard;
 import java.awt.*;
 import java.util.List;
 
-@Mod(modid = MixGame.MODID, name = MixGame.NAME, version = MixGame.VERSION)
-public class MixGame
+@Mod(modid = LobbyFinder.MODID, name = LobbyFinder.NAME, version = LobbyFinder.VERSION)
+public class LobbyFinder
 {
-    public static final String MODID = "mixgame";
-    public static final String NAME = "MixGame Helper";
-    public static final String VERSION = "1.3";
+    public static final String MODID = "lobbyfinder";
+    public static final String NAME = "Lobby Finder";
+    public static final String VERSION = "1.0";
 
     private static Logger logger;
     private final Minecraft minecraft = Minecraft.getMinecraft();

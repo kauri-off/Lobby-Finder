@@ -1,11 +1,11 @@
 [
 {
-  "modid": "mixgame",
-  "name": "MixGame Helper",
+  "modid": "lobbyfinder",
+  "name": "Lobby Finder",
   "description": "Help to find mixgame lobby in teslacraft",
-  "version": "1.3",
+  "version": "1.0",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/kauri-off/Lobby-Finder",
   "updateUrl": "",
   "authorList": ["Kauri"],
   "credits": "",
